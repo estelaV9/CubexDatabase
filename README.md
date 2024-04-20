@@ -1,24 +1,24 @@
 # CubexDatabase 🔷
 Base de datos de una aplicacion sobre cubos de Rubik. Con su modelo e/r, base de datos y consultas.
 
-# Proyecto de Base de Datos - Primer Trimestre 📊
-## Introducción
+## Proyecto de Base de Datos - Primer Trimestre 📊
+### Introducción
 Este proyecto de base de datos fue desarrollado como parte del primer trimestre del curso de [DAM]. El objetivo principal de mi proyecto fue diseñar y desarrollar una base de datos relacional basada en un modelo entidad-relación (ER) sobre cubos de Rubik.
 
-## Modelo Entidad-Relación (ER)
+### Modelo Entidad-Relación (ER)
 Aquí puedes encontrar el diagrama del modelo entidad-relación del proyecto:
 
-![Modelo Entidad-Relación](modeloER_CubeX.png)
+![Modelo Entidad-Relación](https://github.com/estelaV9/CubexDatabase/blob/master/modeloER_CubeX.png)
 
-# Proyecto de Base de Datos - Segundo Trimestre 🗃️
-## Introducción
+## Proyecto de Base de Datos - Segundo Trimestre 🗃️
+### Introducción
 Este proyecto de base de datos es el paso a tablas del modelo entidad-relación del primer trimestre.
 
-## Base de Datos
-[Base de datos](DF_deVega_Estela.sql).
+### Base de Datos
+[Base de datos](https://github.com/estelaV9/CubexDatabase/blob/master/DF_deVega_Estela.sql).
 La base de datos consta de varias tablas que representan las entidades y relaciones definidas en el modelo ER. 
 
-## Consultas
+### Consultas
 Se ha desarrollado varias consultas SQL para el proyecto. Como por ejemplo:
 
 1. CONSULTA 1: OBTENER EL NOMBRE Y CALCULAR MANUALMENTE EL PROMEDIO DE TIEMPOS 
@@ -75,10 +75,10 @@ INNER JOIN AVERAGE A ON TIEMPO.ID_AVERAGE = A.ID_AVERAGE
 WHERE A.ID_AVERAGE = 3
 GROUP BY A.PERIOD_AVG;
 
-[Todas las consultas](PP_consultas_deVega_Estela.sql)
+[Todas las consultas](https://github.com/estelaV9/CubexDatabase/blob/master/PP_consultas_deVega_Estela.sql)
 
 
 ## Licencia 📜
-Este proyecto está bajo la [Licencia MIT](license).
+Este proyecto está bajo la [Licencia MIT](https://github.com/estelaV9/CubexDatabase/blob/master/license.txt).
 
 
