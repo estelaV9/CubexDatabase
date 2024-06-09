@@ -255,4 +255,6 @@ Se desarrolló ejercicios como por ejemplo :
    ```
 
 ## Licencia 📜
-Este proyecto está bajo la [Licencia MIT](https://github.com/estelaV9/CubexDatabase/blob/master/license.txt).
+Este proyecto está bajo la [Licencia MIT](https://github.com/estelaV9/CubexDatabase/blob/master/license.txt).<br> 
+
+>_IES Ribera de Castilla._
